@@ -1,0 +1,10 @@
+Chronic diseases represent a major public health challenge in the United States, contributing to a significant proportion of mortality, healthcare costs, and reduced quality of life. Understanding the patterns, prevalence, and distribution of chronic diseases across states and demographic groups is essential for effective healthcare planning, targeted interventions, and policy formulation. However, due to the vast and complex nature of health data, extracting meaningful insights requires the aid of efficient analytical and visualization tools.
+In this project, an Excel-based interactive dashboard titled “Interactive Dashboard for Chronic Disease Analysis” has been developed to analyze and visualize chronic disease data across the United States. The primary objective of this dashboard is to transform large datasets into intuitive, dynamic visualizations that help users uncover trends, disparities, and key health indicators efficiently.
+The dashboard enables users to:
+•	Explore disease prevalence across different states and years.
+•	Compare the impact of various chronic conditions such as diabetes, heart disease, and cancer.
+•	Identify trends based on gender, age group, and ethnicity.
+•	Visualize state-wise health burdens through maps and comparative charts.
+•	Analyze risk factors and their correlation with chronic disease rates.
+Using Excel’s powerful tools such as pivot tables, charts, slicers, and conditional formatting, the dashboard provides a user-friendly interface that allows for customized filtering and deep-dives into specific health topics. These features empower users—be it researchers, public health officials, or policymakers—to derive insights tailored to their focus areas.
+This project not only illustrates the versatility of Excel in handling public health data but also emphasizes the role of interactive dashboards in modern data science. It highlights how accessible analytical solutions can contribute to better healthcare strategies, resource allocation, and evidence-based decision-making.
