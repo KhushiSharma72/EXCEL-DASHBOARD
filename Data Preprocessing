@@ -1,0 +1,21 @@
+Before conducting any analysis or building visualizations, the dataset underwent a detailed preprocessing phase to ensure data accuracy, consistency, and readiness for effective analysis. Preprocessing is a critical step that enhances the quality of insights and ensures that visual outputs reflect reliable and interpretable information.
+Steps Taken for Preprocessing:
+1.	Data Cleaning:
+	Removed rows with completely blank or irrelevant entries.
+	Standardized textual data for uniformity (e.g., consistent naming for states, indicators, and categories).
+	Filtered out data fields not relevant to the project scope to streamline analysis.
+2.	Handling Missing Values:
+	Excluded rows where essential values such as data value, year, or state were missing to maintain integrity.
+	Verified the completeness of key demographic fields like gender, age group, and race/ethnicity.
+3.	Data Type Conversion:
+	Converted numeric fields such as "Data Value" and "Sample Size" to appropriate number formats (float/int).
+	Ensured all categorical attributes (State, Indicator, Year, etc.) were stored as text for filtering and grouping.
+4.	Derived Column Creation:
+	Created calculated fields where applicable, such as "Normalized Rate" or "Trend Indicator" to support visual comparisons over time.
+	Grouped indicators under broader health categories (e.g., Cardiovascular, Metabolic, Behavioral) to enhance dashboard usability.
+5.	Data Formatting for Excel:
+	Final cleaned dataset was saved in .xlsx format for compatibility with Excel features.
+	Created pivot tables and charts across different sheets to support state-wise, gender-wise, and disease-wise analysis.
+	Applied interactive slicers for State, Disease Category, Year, Gender, and Age Group to enable customized exploration within the dashboard.
+This preprocessing phase ensured the dataset was structured, clean, and optimized for insightful analysis through the Excel-based interactive dashboard. It laid the groundwork for accurate visual representation and evidence-based interpretations of chronic disease patterns in the U.S.
+
