@@ -1,0 +1,9 @@
+The dataset used in this project has been sourced from the official open data platform of the United States — data.gov.in. Maintained by the Centers for Disease Control and Prevention (CDC), this portal provides a wide range of public health datasets aimed at supporting research, promoting transparency, and enabling data-driven decisions in healthcare and public policy.
+The dataset selected for this project is titled “Chronic Disease Indicators (CDI)”. It contains detailed data on the prevalence and impact of various chronic conditions across U.S. states and territories. The dataset encompasses health indicators related to diseases such as diabetes, heart disease, arthritis, asthma, obesity, and mental health, among others. It also includes demographic breakdowns and risk factor assessments, making it a rich resource for analyzing chronic disease patterns and public health trends.
+🔗 Dataset Link: https://catalog.data.gov/dataset/u-s-chronic-disease-indicators
+Key features of the dataset:
+•	Attributes: State, Year, Indicator Name, Category, Data Value, Sample Size, Gender, Age Group, Race/Ethnicity
+•	Coverage: All 50 U.S. states and several territories, spanning multiple years
+•	Format: CSV
+•	Purpose: To support analytical tasks related to disease prevalence, health disparities, behavioral risk factors, and regional health performance
+The dataset has been downloaded in .CSV format and preprocessed using Excel, including data cleaning, restructuring, and formatting. This prepared data was then used to create an interactive dashboard for enhanced analysis and visualization of chronic disease trends in the U.S.
