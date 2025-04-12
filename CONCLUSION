@@ -1,0 +1,10 @@
+The project titled “Interactive Dashboard for Chronic Disease Analysis”   aimed to simplify the interpretation of complex health data by providing clear, visual insights into obesity trends across various states and demographics. By utilizing tools such as Microsoft Excel Pivot Tables, Charts, and Slicers, the project successfully transformed raw health data into an interactive, user-friendly dashboard.
+This dashboard enables users to analyze and compare data across multiple dimensions, such as state, year, gender, and age group, allowing for detailed insights into obesity trends. Users can easily: • Visualize each state's obesity rate and its contribution to national obesity trends across selected years, helping to identify regions with the highest obesity rates.
+• Track year-wise obesity trends to observe growth patterns or fluctuations over time, aiding in understanding the evolution of the obesity crisis.
+• Filter data based on gender and age groups to understand specific trends in obesity across different demographic segments.
+• Compare obesity rates between states or regions, allowing for targeted public health interventions and resource allocation.
+• Identify the top states or regions with the highest obesity rates, making it easier for policymakers to prioritize actions in high-risk areas.
+• Analyze the relationship between factors like physical activity, healthcare access, and obesity rates, providing insights into how different social determinants contribute to obesity prevalence.
+By maintaining professional formatting, using a relevant color palette, and integrating slicers across all charts, the dashboard not only ensures visual appeal but also enhances data interactivity, supporting effective decision-making and resource planning.
+This project demonstrates how Excel-based dashboards can be a powerful tool in public health analysis, enabling data-driven strategies for combating obesity. The approach used is scalable and can be expanded to include more complex datasets, predictive analytics, or interventions for future iterations of the project.
+ 
