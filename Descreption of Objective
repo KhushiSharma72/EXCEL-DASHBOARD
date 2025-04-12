@@ -1,0 +1,64 @@
+Objective 1: Identify States with the Highest Obesity Rates
+I . General Description:
+This objective aims to highlight the U.S. states with the highest prevalence of obesity. Understanding regional differences in obesity rates is crucial for public health planning, resource allocation, and designing targeted intervention programs. By visualizing state-wise obesity data, we can easily identify hotspots where obesity-related risks are most prominent.
+ii. Specific Requirements:
+•	Extract obesity-related records from the dataset and calculate prevalence rates per state.
+•	Use Pivot Tables and Pivot Charts in Excel to display state-wise obesity values.
+•	Apply slicers for filtering based on year, age group, and gender.
+•	Format the chart with color gradients and labels for improved visual impact and clarity.
+iii. Analysis Results:
+The analysis indicated that states such as Mississippi, West Virginia, and Arkansas have some of the highest obesity rates in the country. These states consistently ranked at the top across different years and demographic groups. States with lower obesity rates, like Colorado and Hawaii, were also identified, providing a clear picture of geographic health disparities.
+iv. Visualization:
+A horizontal bar chart titled “Top States by Obesity Rate” was created to represent the data. The chart includes slicers for year, gender, and age group, allowing users to explore the obesity trends across various dimensions. The visualization updates interactively, helping users analyze how obesity varies by region and demographic characteristics.
+
+Objective 2: Track Indicator Trends Over Time
+i. General Description:
+This objective focuses on analyzing how chronic disease indicators—such as obesity, diabetes, and hypertension—have evolved over time across the United States. Understanding these year-wise trends is critical for evaluating the effectiveness of public health initiatives, identifying emerging health crises, and planning future interventions.
+ii. Specific Requirements:
+•	Aggregate the prevalence of each indicator by year using a Pivot Table.
+•	Create a line chart to visualize changes in indicator values over time.
+•	Integrate slicers for filtering by state, gender, age group, and specific health indicator.
+•	Use consistent formatting elements such as data labels, gridlines, and axis titles for better clarity and presentation.
+iii. Analysis Results:
+The line charts revealed notable trends in key health indicators. For instance, obesity and diabetes have shown a steady upward trend over the last decade, with minor fluctuations likely influenced by policy changes, lifestyle shifts, and public awareness programs. Some indicators, like high cholesterol, showed periods of decline, possibly reflecting successful health campaigns or medical advancements.
+iv. Visualization:
+A line chart titled “Year-wise Trend of Chronic Disease Indicators” was created using Excel. It includes dynamic slicers for state, gender, and indicator type, allowing users to interactively explore how health outcomes have changed across different demographics and regions. This visualization provides a clear, time-based view of public health patterns in the U.S.
+
+Objective 3: Show Percentage of Each Indicator
+i. General Description:
+This objective aims to provide a clear understanding of how different chronic health indicators contribute proportionally to the overall burden of disease. By examining the percentage share of each condition—such as obesity, arthritis, asthma, and diabetes—users can prioritize focus areas and understand the distribution of health issues in the population.
+ii. Specific Requirements:
+•	Use a Pivot Table to calculate the relative percentage of each health indicator based on total reported cases.
+•	Apply Pivot Charts (such as pie or stacked column charts) to visually represent these percentages.
+•	Add slicers for filtering by year, state, gender, and age group to enable custom exploration.
+•	Format the chart with legends, percentage labels, and descriptive titles to improve clarity.
+iii. Analysis Results:
+The percentage-based visualization revealed that certain indicators, such as obesity and high blood pressure, consistently account for a large portion of chronic health cases. In contrast, indicators like chronic kidney disease or mental health disorders appear less frequently in the dataset, though still significant in specific demographics. This analysis helps highlight priority areas for public health efforts.
+iv. Visualization:
+A pie chart titled “Percentage Distribution of Chronic Disease Indicators” was created, allowing users to quickly grasp the proportional share of each condition. The dashboard includes interactive slicers to filter the results based on demographic and regional parameters, making the insights highly customizable and user-friendly.
+
+Objective 4: Analyze Gender Distribution in Chronic Disease Prevalence
+i. General Description:
+This objective focuses on comparing the prevalence of chronic diseases between males and females. Analyzing gender distribution helps uncover disparities in health outcomes, which is critical for developing targeted interventions, resource planning, and gender-specific healthcare policies.
+ii. Specific Requirements:
+•	Use a Pivot Table to summarize health indicator values grouped by gender.
+•	Visualize the distribution using pie or column charts for easy comparison.
+•	Incorporate slicers for filtering based on indicator, year, and state.
+•	Add data labels, legends, and axis formatting to enhance clarity.
+iii. Analysis Results:
+The analysis showed noticeable differences in disease prevalence between genders. For example, obesity and arthritis tend to be slightly higher among females, whereas conditions like heart disease and smoking-related indicators showed higher prevalence among males. These gender-based differences can inform more inclusive and equitable health policies.
+iv. Visualization:
+A clustered column chart titled “Gender-Wise Distribution of Chronic Disease Indicators” was created. It allows users to compare male vs. female prevalence across various conditions. Interactive slicers for year, indicator, and state enable users to dynamically explore trends. The chart design includes color-coded bars and clear labels for improved usability and professional presentation.
+
+Objective 5: State-wise Comparison Between Two Indicators
+i. General Description: 
+This objective focuses on comparing two selected chronic disease indicators across different states in the U.S. The goal is to examine how the prevalence of one condition relates to another in various regions, helping public health professionals detect co-occurrence patterns and prioritize areas for multi-indicator interventions.
+ii. Specific Requirements:
+•	Create a Pivot Table with States as rows and two selected health indicators as columns.
+•	Use average values for each indicator to ensure consistency and comparability.
+•	Build a clustered bar or column chart that places both indicators side-by-side for each state.
+•	Integrate slicers for Indicator selection, Year, and Gender to allow dynamic comparison and filtering.
+iii. Analysis Results:
+The analysis revealed correlations in some states between indicators such as obesity and diabetes or high blood pressure and heart disease. For example, states with high obesity levels often showed elevated diabetes rates as well. These findings suggest overlapping risk factors and the need for integrated health programs. States with a wide gap between indicators may require more focused investigation.
+iv. Visualization:
+A clustered column chart titled “State-wise Comparison Between Two Health Indicators” was created. Each state displays two bars side-by-side, representing the selected indicators. Slicers enable users to choose which indicators to compare, along with filters for year and gender. The chart's layout and color scheme were carefully formatted to ensure clarity and easy interpretation of regional patterns.
